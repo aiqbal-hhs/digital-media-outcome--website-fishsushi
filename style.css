@@ -39,6 +39,7 @@ nav{
   position: fixed;
 }
 
+/* Styles links inside nav bar */
 nav a{
   color: rgb(255, 255, 255);
   display: inline-block;
@@ -72,6 +73,7 @@ footer{
     height: 85px;
 }
 
+/* Makes the page properly fit the screen and sets the background color */
 body{
     margin: auto;
     background-color: honeydew;
@@ -118,6 +120,7 @@ ul{
     border-radius: 50%;
 }
 
+/* Makes the about me text center under the image */
 .aboutp{
         margin-left: 684px;
     margin-top: 30px;
@@ -130,15 +133,18 @@ ul{
     margin-top: 30px;
 }
 
+/* Centers the bird image on the contact page */
 .center{
     margin-left: 560px;
 }
 
+/* Aligns text in footer */
 .footertext{
     margin-left: 190px;
     color: white;
 }
 
+/* Aligns logo in header */ 
 .logo{
     width: 80px;
     height: 100px;
