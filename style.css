@@ -92,7 +92,7 @@ img{
     margin-top: 165px;
     overflow: auto;
     height: 300px;
-    border-radius: 3%;
+    border-radius: 10%;
 }
 
 /* Matches ul contents to match paragraph style */
